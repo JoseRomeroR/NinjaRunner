@@ -1,5 +1,6 @@
 # NinjaRunner
-Runner ninja game developed with unity and C#
+Runner ninja game developed with unity and C#.
+Simple game to learn unity components
 
 <img align="center" alt="Ninja" width="600" src="https://i.gyazo.com/a33c6ad8056f68244fb3c1185e0176fb.png">
 
